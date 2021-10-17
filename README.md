@@ -5,7 +5,7 @@
   I am Afrin Sultana 
 I'm interested in solving problems and programming .I'm doing Bachelor in CSE  at State University Of Bangladesh.
 
-Skills:  c,c++,java
+Skills:  c,c++,java,Latex
 
 - 🔭 I’m currently working on skills development 
 - 🌱 I’m currently learning c,javascript 
