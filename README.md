@@ -1,8 +1,10 @@
-# welcome  😇
+                       # welcome  😇
 
 
 
-  I am Afrin Sultana 
+ ### I am Afrin Sultana 
+ 
+ 
 I'm interested in solving problems and programming .I'm doing Bachelor in CSE  at State University Of Bangladesh.
 
 Skills:  c,c++,java,Latex
