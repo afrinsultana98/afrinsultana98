@@ -7,7 +7,7 @@
  
 I'm doing Bachelor in CSE  at State University Of Bangladesh.
 
-Skills:  c,c++,java,Latex
+👷🏻‍♀️ Skills:  c,c++,java,Latex
 
 - 🔭 I’m currently working on skills development 
 - 🌱 I’m currently learning c++,javascript 
