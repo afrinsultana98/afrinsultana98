@@ -5,7 +5,7 @@
  ### I am Afrin Sultana 
  
  
-I'm doing Bachelor in CSE  at State University Of Bangladesh.
+At present i'm doing Bachelor in CSE  at State University Of Bangladesh.
 
 👷🏻‍♀️ Skills:  c,c++,java,Latex
 
