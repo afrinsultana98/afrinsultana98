@@ -18,6 +18,7 @@ At present i'm doing Bachelor in CSE  at State University Of Bangladesh.
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
+Connect with me:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrinsultana98&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afrinsultana98)  
