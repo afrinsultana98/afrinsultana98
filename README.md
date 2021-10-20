@@ -11,10 +11,10 @@ At present i'm doing Bachelor in CSE  at State University Of Bangladesh.
 👷🏻‍♀️ Skills:  c,c++,Java,Latex,Database.
 
 
-- 🔭 I’m currently working on skills development 
-- 🌱 I’m currently learning c++,javascript 
-- 👯 I’m looking to collaborate on Github 
-- 📫 How to reach me afrinsultana.su@gmail.com or facebook https://www.facebook.com/profile.php?id=100017305844080 .
+- 🔭 I’m currently working on skills development. 
+- 🌱 I’m currently learning c++,javascript.
+- 👯 I’m looking to collaborate on Github. 
+- 📫 How to reach me email afrinsultana.su@gmail.com or facebook https://www.facebook.com/profile.php?id=100017305844080 .
 
 
 
