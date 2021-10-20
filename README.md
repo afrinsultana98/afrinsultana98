@@ -8,7 +8,7 @@
 At present i'm doing Bachelor in CSE  at State University Of Bangladesh.
 
 
-👷🏻‍♀️ Skills:  c,c++,java,Latex,Database.
+👷🏻‍♀️ Skills:  c,c++,Java,Latex,Database.
 
 
 - 🔭 I’m currently working on skills development 
