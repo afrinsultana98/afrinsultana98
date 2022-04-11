@@ -13,7 +13,8 @@ At present i'm doing Bachelor in CSE  at State University Of Bangladesh.
 
 - 🔭 I’m currently working on skills development. 
 - 🌱 I’m currently learning c++,javascript.
-- 👯 I’m looking to collaborate on Github. 
+- 👯 I’m looking to collaborate on Github.
+- I'm skilled on assembly language,database etc. 
 - 📫 How to reach me email afrinsultana.su@gmail.com or facebook https://www.facebook.com/profile.php?id=100017305844080 .
 
 
